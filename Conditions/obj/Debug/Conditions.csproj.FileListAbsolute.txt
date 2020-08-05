@@ -1,0 +1,6 @@
+C:\Users\ayatu\Desktop\CSharpCourse\Conditions\bin\Debug\Conditions.exe.config
+C:\Users\ayatu\Desktop\CSharpCourse\Conditions\bin\Debug\Conditions.exe
+C:\Users\ayatu\Desktop\CSharpCourse\Conditions\bin\Debug\Conditions.pdb
+C:\Users\ayatu\Desktop\CSharpCourse\Conditions\obj\Debug\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\ayatu\Desktop\CSharpCourse\Conditions\obj\Debug\Conditions.exe
+C:\Users\ayatu\Desktop\CSharpCourse\Conditions\obj\Debug\Conditions.pdb
